@@ -109,6 +109,10 @@ cp .env.example .env   # fill in API key
 docker compose up -d   # visit http://localhost:3000
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Bloom/)
+
 ---
 
 ## How It Works
